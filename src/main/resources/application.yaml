@@ -1,0 +1,13 @@
+server:
+  port: 8085
+
+spring:
+  mail:
+    username: 18398858464@163.com
+    password: ZTUDFDOLCYGOFZJF
+    host: smtp.163.com
+    properties:
+      mail:
+        smtp:
+          ssl:
+            enable: true
